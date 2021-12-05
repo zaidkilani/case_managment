@@ -34,7 +34,7 @@
     'company': 'Codesk Solutions',
     'maintainer': 'Codesk Solutions',
     'depends': [''],
-    'data': [,],
+    'data': [],
     'license': 'LGPL-3',
     'images': ['static/description/banner.gif'],
     'installable': True,
